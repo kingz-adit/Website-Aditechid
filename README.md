@@ -1,2 +1,2 @@
 # aditechid
-Project #1 | website pribadi
+Project #1 | website portofolio pribadi
